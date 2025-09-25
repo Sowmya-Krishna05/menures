@@ -10,22 +10,22 @@ export const Header: React.FC = () => {
             <ChefHat className="h-8 w-8 text-yellow-400" />
             <div>
               <h1 className="text-3xl font-bold">Bella Vista</h1>
-              <p className="text-gray-300 text-sm">Fine Italian Dining</p>
+              <p className="text-gray-300 text-sm">Fine Italian Restaurant</p>
             </div>
           </div>
           
           <div className="flex flex-col md:flex-row md:items-center space-y-2 md:space-y-0 md:space-x-6">
             <div className="flex items-center space-x-2 text-sm">
               <Clock className="h-4 w-4 text-yellow-400" />
-              <span>Open Daily 11AM - 11PM</span>
+              <span>Open Daily 10AM - 11PM</span>
             </div>
             <div className="flex items-center space-x-2 text-sm">
               <MapPin className="h-4 w-4 text-yellow-400" />
-              <span>123 Culinary Street</span>
+              <span>Bella Vita</span>
             </div>
             <div className="flex items-center space-x-2 text-sm">
               <Phone className="h-4 w-4 text-yellow-400" />
-              <span>(555) 123-4567</span>
+              <span>123-456-789</span>
             </div>
           </div>
         </div>

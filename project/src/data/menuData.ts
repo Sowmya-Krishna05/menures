@@ -44,7 +44,7 @@ export const appetizers: (MenuItemType & {
       "Semolina flour",
       "Eggs",
       "Sparkling water",
-      "San Marzano tomatoes",
+      "Tomatoes",
       "Red pepper flakes",
       "Fresh mayonnaise",
       "Lemon juice and zest",
